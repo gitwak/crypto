@@ -402,7 +402,7 @@ func handleHTTPRedirect(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	target := "https://" + stripPort(r.Host) + r.URL.RequestURI()
-	http.Redirect(w, r, target, http.StatusFound)
+	http.Redirect(w, r, target, http.StatusMovedPermanently)
 }
 
 func stripPort(hostport string) string {
