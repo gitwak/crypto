@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gitwak/crypto/acme"
+	"github.com/gitwak/crypto-ak/acme"
 )
 
 func TestRenewalNext(t *testing.T) {

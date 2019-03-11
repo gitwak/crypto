@@ -12,7 +12,7 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"github.com/gitwak/crypto/ssh/testdata"
+	"github.com/gitwak/crypto-ak/ssh/testdata"
 )
 
 var (

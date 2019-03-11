@@ -31,8 +31,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gitwak/crypto/acme"
-	"github.com/gitwak/crypto/acme/autocert/internal/acmetest"
+	"github.com/gitwak/crypto-ak/acme"
+	"github.com/gitwak/crypto-ak/acme/autocert/internal/acmetest"
 )
 
 var (

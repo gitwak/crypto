@@ -16,8 +16,8 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/gitwak/crypto/ed25519"
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ed25519"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 // Server wraps an Agent and uses it to implement the agent side of

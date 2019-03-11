@@ -7,7 +7,7 @@
 //
 // Clearsigned messages are cryptographically signed, but the contents of the
 // message are kept in plaintext so that it can be read without special tools.
-package clearsign // import "github.com/gitwak/crypto/openpgp/clearsign"
+package clearsign // import "github.com/gitwak/crypto-ak/openpgp/clearsign"
 
 import (
 	"bufio"
@@ -19,9 +19,9 @@ import (
 	"net/textproto"
 	"strconv"
 
-	"github.com/gitwak/crypto/openpgp/armor"
-	"github.com/gitwak/crypto/openpgp/errors"
-	"github.com/gitwak/crypto/openpgp/packet"
+	"github.com/gitwak/crypto-ak/openpgp/armor"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/packet"
 )
 
 // A Block represents a clearsigned message. A signature on a Block can

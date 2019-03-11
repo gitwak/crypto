@@ -8,7 +8,7 @@ import (
 	"crypto/cipher"
 	"crypto/sha1"
 	"crypto/subtle"
-	"github.com/gitwak/crypto/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
 	"hash"
 	"io"
 	"strconv"

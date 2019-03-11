@@ -21,7 +21,7 @@
 //
 // Note that XTS is usually not appropriate for any use besides disk encryption.
 // Most users should use an AEAD mode like GCM (from crypto/cipher.NewGCM) instead.
-package xts // import "github.com/gitwak/crypto/xts"
+package xts // import "github.com/gitwak/crypto-ak/xts"
 
 import (
 	"crypto/cipher"
@@ -29,7 +29,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/gitwak/crypto/internal/subtle"
+	"github.com/gitwak/crypto-ak/internal/subtle"
 )
 
 // Cipher contains an expanded key structure. It is safe for concurrent use if

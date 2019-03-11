@@ -9,8 +9,8 @@ import (
 	"net"
 	"os"
 
-	"github.com/gitwak/crypto/ssh"
-	"github.com/gitwak/crypto/ssh/agent"
+	"github.com/gitwak/crypto-ak/ssh"
+	"github.com/gitwak/crypto-ak/ssh/agent"
 )
 
 func ExampleClientAgent() {

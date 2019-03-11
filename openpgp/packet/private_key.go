@@ -18,9 +18,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gitwak/crypto/openpgp/elgamal"
-	"github.com/gitwak/crypto/openpgp/errors"
-	"github.com/gitwak/crypto/openpgp/s2k"
+	"github.com/gitwak/crypto-ak/openpgp/elgamal"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/s2k"
 )
 
 // PrivateKey represents a possibly encrypted private key. See RFC 4880,

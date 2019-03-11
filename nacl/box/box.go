@@ -32,14 +32,14 @@ chunk size.
 
 This package is interoperable with NaCl: https://nacl.cr.yp.to/box.html.
 */
-package box // import "github.com/gitwak/crypto/nacl/box"
+package box // import "github.com/gitwak/crypto-ak/nacl/box"
 
 import (
 	"io"
 
-	"github.com/gitwak/crypto/curve25519"
-	"github.com/gitwak/crypto/nacl/secretbox"
-	"github.com/gitwak/crypto/salsa20/salsa"
+	"github.com/gitwak/crypto-ak/curve25519"
+	"github.com/gitwak/crypto-ak/nacl/secretbox"
+	"github.com/gitwak/crypto-ak/salsa20/salsa"
 )
 
 // Overhead is the number of bytes of overhead when boxing a message.

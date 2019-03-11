@@ -31,7 +31,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gitwak/crypto/acme"
+	"github.com/gitwak/crypto-ak/acme"
 )
 
 // createCertRetryAfter is how much time to wait before removing a failed state

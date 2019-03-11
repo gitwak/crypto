@@ -8,7 +8,7 @@ import (
 	"compress/bzip2"
 	"compress/flate"
 	"compress/zlib"
-	"github.com/gitwak/crypto/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
 	"io"
 	"strconv"
 )

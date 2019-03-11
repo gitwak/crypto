@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/gitwak/crypto/hkdf"
+	"github.com/gitwak/crypto-ak/hkdf"
 )
 
 // Usage example that expands one master secret into three other

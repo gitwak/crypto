@@ -16,7 +16,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/gitwak/crypto/ssh/terminal"
+	"github.com/gitwak/crypto-ak/ssh/terminal"
 )
 
 type serverType func(Channel, <-chan *Request, *testing.T)

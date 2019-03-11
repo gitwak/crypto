@@ -7,7 +7,7 @@ package subtle_test
 import (
 	"testing"
 
-	"github.com/gitwak/crypto/internal/subtle"
+	"github.com/gitwak/crypto-ak/internal/subtle"
 )
 
 var a, b [100]byte

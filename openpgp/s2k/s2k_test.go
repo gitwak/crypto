@@ -15,7 +15,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	_ "github.com/gitwak/crypto/ripemd160"
+	_ "github.com/gitwak/crypto-ak/ripemd160"
 )
 
 var saltedTests = []struct {

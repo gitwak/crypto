@@ -23,8 +23,8 @@ package sign
 import (
 	"io"
 
-	"github.com/gitwak/crypto/ed25519"
-	"github.com/gitwak/crypto/internal/subtle"
+	"github.com/gitwak/crypto-ak/ed25519"
+	"github.com/gitwak/crypto-ak/internal/subtle"
 )
 
 // Overhead is the number of bytes of overhead when signing a message.

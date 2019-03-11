@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gitwak/crypto/cryptobyte/asn1"
+	"github.com/gitwak/crypto-ak/cryptobyte/asn1"
 )
 
 type readASN1Test struct {

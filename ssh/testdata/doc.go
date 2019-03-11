@@ -3,6 +3,6 @@
 // license that can be found in the LICENSE file.
 
 // This package contains test data shared between the various subpackages of
-// the github.com/gitwak/crypto/ssh package. Under no circumstance should
+// the github.com/gitwak/crypto-ak/ssh package. Under no circumstance should
 // this data be used for production code.
-package testdata // import "github.com/gitwak/crypto/ssh/testdata"
+package testdata // import "github.com/gitwak/crypto-ak/ssh/testdata"

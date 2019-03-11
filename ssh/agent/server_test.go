@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 func TestServer(t *testing.T) {

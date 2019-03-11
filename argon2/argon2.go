@@ -40,7 +40,7 @@ import (
 	"encoding/binary"
 	"sync"
 
-	"github.com/gitwak/crypto/blake2b"
+	"github.com/gitwak/crypto-ak/blake2b"
 )
 
 // The Argon2 version implemented by this package.

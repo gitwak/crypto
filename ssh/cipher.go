@@ -18,8 +18,8 @@ import (
 	"io/ioutil"
 	"math/bits"
 
-	"github.com/gitwak/crypto/internal/chacha20"
-	"github.com/gitwak/crypto/poly1305"
+	"github.com/gitwak/crypto-ak/internal/chacha20"
+	"github.com/gitwak/crypto-ak/poly1305"
 )
 
 const (

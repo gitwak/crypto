@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gitwak/crypto/openpgp/packet"
+	"github.com/gitwak/crypto-ak/openpgp/packet"
 )
 
 func TestSignDetached(t *testing.T) {

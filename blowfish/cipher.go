@@ -10,8 +10,8 @@
 //
 // Deprecated: any new system should use AES (from crypto/aes, if necessary in
 // an AEAD mode like crypto/cipher.NewGCM) or XChaCha20-Poly1305 (from
-// github.com/gitwak/crypto/chacha20poly1305).
-package blowfish // import "github.com/gitwak/crypto/blowfish"
+// github.com/gitwak/crypto-ak/chacha20poly1305).
+package blowfish // import "github.com/gitwak/crypto-ak/blowfish"
 
 // The code is a port of Bruce Schneier's C implementation.
 // See https://www.schneier.com/blowfish.html.

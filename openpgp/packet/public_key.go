@@ -22,8 +22,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/gitwak/crypto/openpgp/elgamal"
-	"github.com/gitwak/crypto/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/elgamal"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
 )
 
 var (

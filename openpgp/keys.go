@@ -9,9 +9,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/gitwak/crypto/openpgp/armor"
-	"github.com/gitwak/crypto/openpgp/errors"
-	"github.com/gitwak/crypto/openpgp/packet"
+	"github.com/gitwak/crypto-ak/openpgp/armor"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/packet"
 )
 
 // PublicKeyType is the armor type for a PGP public key.

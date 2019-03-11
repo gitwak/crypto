@@ -10,8 +10,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/gitwak/crypto/openpgp/errors"
-	"github.com/gitwak/crypto/openpgp/s2k"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/s2k"
 )
 
 // This is the largest session key that we'll support. Since no 512-bit cipher

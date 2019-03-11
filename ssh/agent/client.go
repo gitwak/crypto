@@ -9,7 +9,7 @@
 //
 // References:
 //  [PROTOCOL.agent]: https://tools.ietf.org/html/draft-miller-ssh-agent-00
-package agent // import "github.com/gitwak/crypto/ssh/agent"
+package agent // import "github.com/gitwak/crypto-ak/ssh/agent"
 
 import (
 	"bytes"
@@ -26,8 +26,8 @@ import (
 	"sync"
 
 	"crypto"
-	"github.com/gitwak/crypto/ed25519"
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ed25519"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 // SignatureFlags represent additional flags that can be passed to the signature

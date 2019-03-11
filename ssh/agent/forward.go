@@ -10,7 +10,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 // RequestAgentForwarding sets up agent forwarding for the session.

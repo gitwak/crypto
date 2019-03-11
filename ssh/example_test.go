@@ -16,8 +16,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/gitwak/crypto/ssh"
-	"github.com/gitwak/crypto/ssh/terminal"
+	"github.com/gitwak/crypto-ak/ssh"
+	"github.com/gitwak/crypto-ak/ssh/terminal"
 )
 
 func ExampleNewServerConn() {

@@ -8,7 +8,7 @@ import (
 	"bytes"
 	"encoding/hex"
 	"fmt"
-	"github.com/gitwak/crypto/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
 	"io"
 	"io/ioutil"
 	"testing"

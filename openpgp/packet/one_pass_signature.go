@@ -7,8 +7,8 @@ package packet
 import (
 	"crypto"
 	"encoding/binary"
-	"github.com/gitwak/crypto/openpgp/errors"
-	"github.com/gitwak/crypto/openpgp/s2k"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/s2k"
 	"io"
 	"strconv"
 )

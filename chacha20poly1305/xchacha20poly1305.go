@@ -9,7 +9,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/gitwak/crypto/internal/chacha20"
+	"github.com/gitwak/crypto-ak/internal/chacha20"
 )
 
 type xchacha20poly1305 struct {

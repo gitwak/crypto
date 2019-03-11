@@ -14,7 +14,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/gitwak/crypto/curve25519"
+	"github.com/gitwak/crypto-ak/curve25519"
 )
 
 const (

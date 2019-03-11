@@ -23,7 +23,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 // test cases

@@ -9,7 +9,7 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/gitwak/crypto/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
 )
 
 // OpaquePacket represents an OpenPGP packet as raw, unparsed data. This is

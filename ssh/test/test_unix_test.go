@@ -23,8 +23,8 @@ import (
 	"testing"
 	"text/template"
 
-	"github.com/gitwak/crypto/ssh"
-	"github.com/gitwak/crypto/ssh/testdata"
+	"github.com/gitwak/crypto-ak/ssh"
+	"github.com/gitwak/crypto-ak/ssh/testdata"
 )
 
 const (

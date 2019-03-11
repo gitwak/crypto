@@ -7,9 +7,9 @@ package chacha20poly1305
 import (
 	"encoding/binary"
 
-	"github.com/gitwak/crypto/internal/chacha20"
-	"github.com/gitwak/crypto/internal/subtle"
-	"github.com/gitwak/crypto/poly1305"
+	"github.com/gitwak/crypto-ak/internal/chacha20"
+	"github.com/gitwak/crypto-ak/internal/subtle"
+	"github.com/gitwak/crypto-ak/poly1305"
 )
 
 func roundTo16(n int) int {

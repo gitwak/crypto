@@ -8,7 +8,7 @@ import (
 	"encoding/binary"
 	"hash"
 
-	"github.com/gitwak/crypto/blake2b"
+	"github.com/gitwak/crypto-ak/blake2b"
 )
 
 // blake2bHash computes an arbitrary long hash value of in

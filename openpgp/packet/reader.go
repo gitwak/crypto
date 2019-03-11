@@ -5,7 +5,7 @@
 package packet
 
 import (
-	"github.com/gitwak/crypto/openpgp/errors"
+	"github.com/gitwak/crypto-ak/openpgp/errors"
 	"io"
 )
 

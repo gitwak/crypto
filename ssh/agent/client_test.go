@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 // startOpenSSHAgent executes ssh-agent, and returns an Agent interface to it.

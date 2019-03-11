@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 type privKey struct {

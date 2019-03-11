@@ -3,5 +3,5 @@
 // license that can be found in the LICENSE file.
 
 // Package test contains integration tests for the
-// github.com/gitwak/crypto/ssh package.
-package test // import "github.com/gitwak/crypto/ssh/test"
+// github.com/gitwak/crypto-ak/ssh package.
+package test // import "github.com/gitwak/crypto-ak/ssh/test"

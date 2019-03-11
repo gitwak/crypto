@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/gitwak/crypto/md4"
+	"github.com/gitwak/crypto-ak/md4"
 )
 
 func ExampleNew() {

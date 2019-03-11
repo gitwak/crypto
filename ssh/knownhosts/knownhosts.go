@@ -21,7 +21,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/gitwak/crypto/ssh"
+	"github.com/gitwak/crypto-ak/ssh"
 )
 
 // See the sshd manpage

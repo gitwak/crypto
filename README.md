@@ -4,8 +4,8 @@ This repository holds supplementary Go cryptography libraries.
 
 ## Download/Install
 
-The easiest way to install is to run `go get -u github.com/gitwak/crypto/...`. You
-can also manually git clone the repository to `$GOPATH/src/github.com/gitwak/crypto`.
+The easiest way to install is to run `go get -u github.com/gitwak/crypto-ak/...`. You
+can also manually git clone the repository to `$GOPATH/src/github.com/gitwak/crypto-ak`.
 
 ## Report Issues / Send Patches
 

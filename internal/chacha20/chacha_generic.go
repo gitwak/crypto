@@ -10,7 +10,7 @@ import (
 	"crypto/cipher"
 	"encoding/binary"
 
-	"github.com/gitwak/crypto/internal/subtle"
+	"github.com/gitwak/crypto-ak/internal/subtle"
 )
 
 // assert that *Cipher implements cipher.Stream

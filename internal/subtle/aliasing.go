@@ -6,7 +6,7 @@
 
 // Package subtle implements functions that are often useful in cryptographic
 // code but require careful thought to use correctly.
-package subtle // import "github.com/gitwak/crypto/internal/subtle"
+package subtle // import "github.com/gitwak/crypto-ak/internal/subtle"
 
 import "unsafe"
 

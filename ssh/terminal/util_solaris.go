@@ -4,7 +4,7 @@
 
 // +build solaris
 
-package terminal // import "github.com/gitwak/crypto/ssh/terminal"
+package terminal // import "github.com/gitwak/crypto-ak/ssh/terminal"
 
 import (
 	"golang.org/x/sys/unix"

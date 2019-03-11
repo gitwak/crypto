@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/gitwak/crypto/curve25519"
+	"github.com/gitwak/crypto-ak/curve25519"
 )
 
 func TestSealOpen(t *testing.T) {

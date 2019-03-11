@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/gitwak/crypto/nacl/auth"
+	"github.com/gitwak/crypto-ak/nacl/auth"
 )
 
 func Example() {

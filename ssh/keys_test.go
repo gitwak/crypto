@@ -20,8 +20,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gitwak/crypto/ed25519"
-	"github.com/gitwak/crypto/ssh/testdata"
+	"github.com/gitwak/crypto-ak/ed25519"
+	"github.com/gitwak/crypto-ak/ssh/testdata"
 )
 
 func rawKey(pub PublicKey) interface{} {

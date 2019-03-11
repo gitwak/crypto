@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gitwak/crypto/openpgp"
-	"github.com/gitwak/crypto/openpgp/packet"
+	"github.com/gitwak/crypto-ak/openpgp"
+	"github.com/gitwak/crypto-ak/openpgp/packet"
 )
 
 func testParse(t *testing.T, input []byte, expected, expectedPlaintext string) {
